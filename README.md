@@ -7,9 +7,11 @@ For use with [https://github.com/steve-m/hsdaoh-rp2350/tree/pcm1802](https://git
 <img src="https://github.com/Sev5000/RP2350B_DualADC_DualPCM/blob/main/DualADC.png?raw=true" alt="">
 
 Features:
+- Two 12bit 40MS/s ADCs
+- Four channel audio input all with a common clock
 - No SMD soldering needed! Works fine just connecting breakout boards
 - Socket for a Pimoroni LGA2350B and RP2350 and its periphery
-- The protected head switch input with footprints for edge and horizontal SMA/SMB
+- The protected head switch input has footprints for edge and horizontal SMA/SMB (SMD soldering needed)
 - Socket for USB C and Micro B breakouts
   
 <img src="https://github.com/Sev5000/RP2350B_DualADC_DualPCM/blob/main/DualADC.webp?raw=true" alt="">
