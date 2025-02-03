@@ -10,7 +10,7 @@ Features:
 - Two 12bit 40MS/s ADCs
 - Four channel audio input all with a common clock
 - No SMD soldering needed! Works fine just connecting breakout boards
-- Socket for a Pimoroni LGA2350B and RP2350 and its periphery
+- Socket for a Pimoroni PGA2350 and RP2350 and its periphery
 - The protected head switch input has footprints for edge and horizontal SMA/SMB (SMD soldering needed)
 - Socket for USB C and Micro B breakouts
   
@@ -18,6 +18,7 @@ Features:
 
 Bill of material: 
 - 1x This PCB (Send the Gerber .zip to JLC, PCBWay, ..)
+- 1x Pimoroni PGA2350
 - 2x AD9226: https://aliexpress.com/item/1005003038271519.html
 - 2x PCM1802: https://aliexpress.com/item/1005006412873984.html
 - 4x RCA-105 or RCA-106: https://aliexpress.com/item/1005006152724809.html
@@ -32,7 +33,7 @@ No SMD variant:
 - 4x 2x8pin 2.54mm pin-socket header
 - Either Adafruit USB Micro-B Breakout Board or Adafruit USB C Breakout Board
 
-SMD Variant with LGA2350B:
+SMD Variant with PGA2350:
 - Regular HDMI connector
 - micro USB connector
 - 8× 0402 270 ohm resistors
